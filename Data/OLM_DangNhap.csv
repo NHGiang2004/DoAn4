@@ -1,0 +1,7 @@
+﻿username,password,expected
+,nguoi@2944,Vui lòng nhập đầy đủ: Tên đăng nhập/Email và Mật khẩu
+degh,nguoi@2944,Tên đăng nhập hoặc mật khẩu của bạn không chính xác.
+degh@.com,nguoi@2944,Tên đăng nhập hoặc mật khẩu của bạn không chính xác.
+degh@gmail.com,,Vui lòng nhập đầy đủ: Tên đăng nhập/Email và Mật khẩu
+degh@gmail.com,internet@123,Tên đăng nhập hoặc mật khẩu của bạn không chính xác.
+degh@gmail.com,nguoi@2944,Người 2
