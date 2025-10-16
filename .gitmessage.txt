@@ -1,0 +1,8 @@
+# Template for commit messages
+# <type>(<scope>): <subject>
+#
+# type: feat, fix, docs, style, refactor, test, chore
+# scope: optional component or file
+# subject: short description (max 50 chars)
+#
+# Body: optional, explain what and why
